@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @FunnyPhantom
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-FunnyPhantom/FunnyPhantom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey. My name is Moha Movahedmanesh and I'm a software engineer.
+I've worked mostly on Frontend and recently started to integrate LLMs.
+I've contributed to repositories such as [Guidance](https://github.com/guidance-ai/guidance) and [Vuetify](https://github.com/vuetifyjs/vuetify). 
+You can contact me via [Linkedin](https://www.linkedin.com/in/mohamova/) or Via [Email](mailto:movahedmnesh@gmail.com).
+
+Happy coding! 🧑‍💻
