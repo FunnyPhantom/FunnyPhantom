@@ -7,7 +7,7 @@ I've co founded an startup, so I had to wore many hats, and most of them technic
 * I've recently started to integrate LLMs and Used python and fastAPI + pinecone db. (But my knowledge is shallow regarding this)
 * I've contributed to repositories such as [Guidance](https://github.com/guidance-ai/guidance) and [Vuetify](https://github.com/vuetifyjs/vuetify). 
 
-<br/>
+<br></br>
 You can contact me via [Linkedin](https://www.linkedin.com/in/mohamova/) or Via [Email](mailto:movahedmnesh@gmail.com).
 
 Happy coding! 🧑‍💻
