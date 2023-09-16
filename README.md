@@ -1,5 +1,7 @@
 
-Hey. My name is Moha Movahedmanesh and I'm a software engineer.
+Hey.👋 
+
+My name is Moha Movahedmanesh and I'm a software engineer.
 I've co founded an startup, so I had to wore many hats, and most of them technical. So I have technical proficiency in a lot of places. (And the ability to quickly gain proficiency for a given tool.)
 * For the Java stack I know Spring, Spring boot, and Reactor, lombok.
 * For the Node.js stack I know NestJs, Express, mongoose, sequalize. I prefer typescript in node stack.
