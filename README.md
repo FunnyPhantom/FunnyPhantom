@@ -10,7 +10,7 @@ I've co founded an startup, so I had to wear many hats (most of them technical).
     *  SSR, SSG, Lazy loading, minification, dead-code elimination, responsive design, progressive enhancement, and more.
     *  `V8` engine, `Core-js`, `Webpack`, `rollup`, `yalc`, `metro`, `eslint`, and more.
   * JS ecosystem changes rapidly 😅, but I keep myself up-to-date with latest impactful technologies.<br></br>
-* I've recently started to make LLMs based application. I used python and fastAPI + guidance + langchain + pinecone db. (But my knowledge is shallow regarding this) <br></br>
+* I've recently started to make some LLM based applications. I used `python` and `fastAPI` + `guidance` + `langchain` + `pinecone db`. (But my knowledge is shallow regarding this) <br></br>
 * I'am maintaining the [bebras platform](https://github.com/learn-python-ir) as part of [Algorithmic Creativity course](https://github.com/SharifiZarchi/Algorithmic_Creativity_Python_Programming_Highschool_Students) for highschool students, which helps them to discover the concepts of computer science for themselves, like how a scientist would. ^^ <br></br>
 * I've contributed to open source projects such as [schemastore](https://github.com/SchemaStore/schemastore), [guidance](https://github.com/guidance-ai/guidance), [vuetify](https://github.com/vuetifyjs/vuetify), etc. <br></br>
 
