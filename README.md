@@ -8,6 +8,7 @@ I've co founded an startup, so I had to wear many hats (most of them technical).
 * For the Frontend stack I know React, Vue, Redux, Vuex, Nuxt, Rebass, React-query, and more. I prefer typescript in Frontend.
   * Usually, the JS ecosystem changes rapidly 😅, but I keep myself up-to-date with latest impactful technologies.    
 * I've recently started to make LLMs based application. I used python and fastAPI + guidance + langchain + pinecone db. (But my knowledge is shallow regarding this)
+* I'am maintaining the [bebras platform](https://github.com/learn-python-ir) as part of [Algorithmic Creativity course](https://github.com/SharifiZarchi/Algorithmic_Creativity_Python_Programming_Highschool_Students) for highschool students, which helps them to discover the concepts of computer science for themselves, like how a scientist would. ^^
 * I've contributed to open source projects such as [schemastore](https://github.com/SchemaStore/schemastore), [guidance](https://github.com/guidance-ai/guidance), [vuetify](https://github.com/vuetifyjs/vuetify), etc.
 
 <br></br>
