@@ -15,6 +15,6 @@ I've co founded an startup, so I had to wear many hats (most of them technical).
 * I've contributed to open source projects such as [schemastore](https://github.com/SchemaStore/schemastore), [guidance](https://github.com/guidance-ai/guidance), [vuetify](https://github.com/vuetifyjs/vuetify), etc. <br></br>
 
 <br></br>
-You can contact me via [Linkedin](https://www.linkedin.com/in/mohamova/) or Via [Email](mailto:movahedmnesh@gmail.com).
+You can contact me via [Linkedin](https://www.linkedin.com/in/mohamova/) or Via [Email](mailto:moha.movahedamanesh@gmail.com).
 
 Happy coding! 🧑‍💻
